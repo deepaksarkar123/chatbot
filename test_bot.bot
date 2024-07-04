@@ -1,0 +1,9 @@
+{
+    "name": "TestBot",
+    "description": "",
+    "services": [],
+    "padlock": "",
+    "version": "2.0",
+    "path": "/Users/deepaksarkar/Documents/my_chatbot/test_bot.bot",
+    "overrides": null
+}
